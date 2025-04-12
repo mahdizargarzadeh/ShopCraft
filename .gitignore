@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+db.sqlite3
+pycache/
+*.py[cod]
+*$py.class
+*.log
+*.cache
+*.tmp
+temp/
+uploads/
+.DS_Store
+Thumbs.db
